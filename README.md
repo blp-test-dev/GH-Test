@@ -1,2 +1,2 @@
 # GH-Test
-A repo to test GitHub functionality
+This repo is for testing GitHub functionality
